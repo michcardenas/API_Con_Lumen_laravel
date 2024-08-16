@@ -1,24 +1,29 @@
-# Lumen PHP Framework
+# 🧾 **API Facturación Electrónica DIAN** 🧾
 
-[![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
-[![Total Downloads](https://img.shields.io/packagist/dt/laravel/lumen-framework)](https://packagist.org/packages/laravel/lumen-framework)
-[![Latest Stable Version](https://img.shields.io/packagist/v/laravel/lumen-framework)](https://packagist.org/packages/laravel/lumen-framework)
-[![License](https://img.shields.io/packagist/l/laravel/lumen)](https://packagist.org/packages/laravel/lumen-framework)
+**API Facturación Electrónica** es una aplicación diseñada para gestionar la generación y edición de facturas electrónicas antes de enviarlas a un proveedor de servicio autorizado por la **DIAN** (Dirección de Impuestos y Aduanas Nacionales de Colombia). Desarrollada en **Laravel** con **Lumen**, esta API proporciona una solución robusta y eficiente para cualquier establecimiento que necesite cumplir con las normativas de facturación electrónica en Colombia. Además, cuenta con documentación detallada utilizando **Swagger**.
 
-Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
+## 📝 **Descripción**
 
-## Official Documentation
+Esta aplicación permite a los establecimientos guardar y editar facturas generadas antes de su envío a un proveedor de servicio autorizado por la DIAN. Con una arquitectura basada en **Laravel** y **Lumen**, la API es capaz de manejar grandes volúmenes de datos y asegurar la integridad y seguridad de las transacciones. La documentación generada con Swagger facilita la integración y el uso de la API por parte de desarrolladores y administradores de sistemas.
 
-Documentation for the framework can be found on the [Lumen website](https://lumen.laravel.com/docs).
+### **Características principales**:
+- **Gestión de Facturas**: Almacena y permite la edición de facturas antes de su envío a la DIAN.
+- **Integración con Proveedores Autorizados**: Conexión directa con el proveedor autorizado **HGI**.
+- **Documentación Swagger**: Documentación completa para facilitar la integración y el uso de la API.
 
-## Contributing
 
-Thank you for considering contributing to Lumen! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Security Vulnerabilities
+## 🚀 **Uso**
 
-If you discover a security vulnerability within Lumen, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+Esta API está diseñada para cualquier establecimiento que necesite facturar electrónicamente y conectarse con el proveedor autorizado **HGI**. Facilita el proceso de edición y validación de facturas antes de su envío, asegurando que cumplan con los requisitos legales establecidos por la **DIAN**.
 
-## License
+## 📞 **Contacto**
 
-The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Si tienes alguna pregunta o necesitas asistencia, puedes contactarme:
+
+**Michael Cárdenas**  
+✉️ [michcardenas001@gmail.com](mailto:michcardenas001@gmail.com)
+
+---
+
+Gracias por utilizar **API Facturación Electrónica DIAN**. ¡Esperamos que esta herramienta simplifique y optimice tu proceso de facturación! 🧾🚀
